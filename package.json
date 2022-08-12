@@ -1,0 +1,13 @@
+{
+    "name": "discord-tickets",
+    "main": "main.js",
+    "author": "Vitor",
+    "version": "1.0.0",
+    "description": "Um bot Discord legal para gerenciar tickets em seu servidor",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "discord.js": "^13.2.0"
+    }
+}
